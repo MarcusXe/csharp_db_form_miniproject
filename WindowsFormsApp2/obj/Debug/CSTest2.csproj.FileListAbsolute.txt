@@ -1,0 +1,13 @@
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\bin\Debug\Database1.mdf
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\bin\Debug\Database1_log.ldf
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\CSTest2.csprojAssemblyReference.cache
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\CSTest2.csproj.GenerateResource.cache
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\CSTest2.csproj.CoreCompileInputs.cache
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\ANY_PROJECT\C#\Csharp_db_functions\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
